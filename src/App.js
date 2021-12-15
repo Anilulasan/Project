@@ -13,7 +13,7 @@ function App() {
       <div className="App">
         <div className= "content">
           <Routes>
-            <Route exact path = "" element = {<Home/>}/>
+            <Route exact path = "http://anilulasan.github.io/Project/" element = {<Home/>}/>
              
             <Route path = "/map" element = {<Points/>}/>
              
